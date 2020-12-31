@@ -2,7 +2,7 @@
 Invite my Discord bot Bart to your server using the link below.
 
 ## Invite
-[B.A.R.T.](https://discord.com/api/oauth2/authorize?client_id=787776091204222976&permissions=8&scope=bot)
+B.A.R.T.: https://discord.com/api/oauth2/authorize?client_id=787776091204222976&permissions=8&scope=bot
 
 ## Features:
 - Moderating Commands
