@@ -5,7 +5,8 @@ This bot is under constant development so if you encounter any problems please l
 
 ## Links
 - Suppport server: https://discord.gg/k8ZZb2X9D7
-- Invite the bot: http://bit.ly/bartserver
+- Invite the bot: https://bit.ly/bartinvite
+- Website: https://bit.ly/bartbot
 
 ## Features:
 - Moderating Commands
