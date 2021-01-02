@@ -6,7 +6,7 @@ This bot is under constant development so if you encounter any problems please l
 ## Links
 - Suppport server: https://discord.gg/k8ZZb2X9D7
 - Invite the bot: https://bit.ly/bartinvite
-- Website: https://bit.ly/bartbot
+- Website: https://bit.ly/bartweb
 
 ## Features:
 - Moderating Commands
@@ -22,6 +22,6 @@ When inviting the bot to your server, it should automatically use `b!` as prefix
 - Staff will give your server the standard prefix `b!`
 - You can change the server's prefix with `b!changeprefix <new_prefix>`
 
-## Offline
-When the bot is offline all the prefixes of the bot will be reset once the bot is onlie again, so everytime the bot reboots, you'll need to change it again. If both prefixes `b!` and your custom prefix don't work, follow the steps from above again.
+## Offline / Reboot
+When the bot is offline or rebootinng all the prefixes of the bot will be reset to the standard `b!` once the bot is online again, so everytime the bot reboots, you'll need to change it again. If both prefixes `b!` and your custom prefix don't work, follow the steps from above again.
 
