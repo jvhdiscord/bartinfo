@@ -8,7 +8,7 @@ This bot is under constant development so if you encounter any problems please l
 - Invite the bot: https://bit.ly/bartinvite
 - Website: https://bit.ly/bartweb
 
-## Features:
+## Features
 - Moderating Commands
 - Fun Commands
 - Utility Commands
