@@ -9,5 +9,5 @@ All of the following data is stored securely in Bart's Database and is not share
 This is necessary for Bart to work properly.
 The only people who have access to this data is the development team who agreed to this privacy policy not to share any data.
 
-If you have any questions or would like to have this data deleted, please join the support server and open a ticket. (https://github.com/jvhdiscord/bartinfo/blob/main/README.md#links)
+If you have any questions or would like to have this data deleted, please join the [support server](https://github.com/jvhdiscord/bartinfo/blob/main/README.md#links) and open a ticket.
 Do note that if you want your data deleted that the bot will not work anymore in your server.
