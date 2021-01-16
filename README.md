@@ -4,7 +4,7 @@ B.A.R.T. is a Discord bot with moderation settings, fun commands and supports sm
 This bot is under constant development so if you encounter any problems or have a suggestion, please let us know in the support server.
 
 ## Links
-- Suppport server: https://discord.gg/k8ZZb2X9D7
+- Suppport server: https://discord.gg/h6Nss2aa9H
 - Invite the bot: https://bit.ly/bartinvite
 
 ## Features
