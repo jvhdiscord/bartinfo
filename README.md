@@ -9,6 +9,13 @@ This bot is under constant development so if you encounter any problems or have 
 
 ## Features
 - Moderating Commands (kick, ban, softban, purge, mute, ...)
-- Fun Commands (8ball, howdumb, sarcasm, kill, say, ...)
+- Fun Commands (8ball, howdumb, sarcasm, kill, say, roast, ...)
 - Utility Commands
 - Twitch Streamers (to apply for this join the support server and open a ticket)
+
+## Examples
+- 8ball with many funny answers
+- Many meters, like how smart you are, or how hot
+- Random choice
+- Kill others 😳
+- Roast others
