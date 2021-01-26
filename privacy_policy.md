@@ -6,6 +6,7 @@ All of the following data is stored securely in Bart's Database and is not share
 
 > - Guild ID's (Otherwise known as Server ID's)
 > - User ID's
+> - Message ID's
 
 These are necessary for Bart to work properly.
 The only people who have access to this data is the development team who agreed to this privacy policy not to share any data.
