@@ -8,6 +8,7 @@
 > - More advanced giveaway system (more info about it beneath)
 
 > **Improvements**:
+> - Total rewrite of the bot which should make it faster (and ofcourse easier for me to edit and see)
 > - Some bug fixes
 
 
