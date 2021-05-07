@@ -3,36 +3,6 @@
     "IMPORTANT COMMENT": "ALWAYS SET \n TO \n> ",
     "updates": [
         {
-            "update3.0": [
-                {
-                    "version": "3.0"
-                },
-                {
-                    "general": [
-                        {
-                            "removed": null
-                        },
-                        {
-                            "added": [
-                                "Your momma\n> Issa hoe"
-                            ]
-                        },
-                        {
-                            "improvements": [
-                                "- Some bug fixes"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "info": null
-                },
-                {
-                    "date": "07/05/2021"
-                }
-            ]
-        },
-        {
             "update2.0": [
                 {
                     "version": "2.0"
@@ -62,6 +32,35 @@
                     "info": [
                         "- New giveaway commands: `giveaway` `quickgiveaway` `endgiveaway` `stopgiveaway` `reroll`\n- For info about the commands you can use `b!help [command]`."
                     ]
+                },
+                {
+                    "date": "07/05/2021"
+                }
+            ]
+        },
+        {
+            "update1.0": [
+                {
+                    "version": "1.0"
+                },
+                {
+                    "general": [
+                        {
+                            "removed": null
+                        },
+                        {
+                            "added": null
+                        },
+                        {
+                            "improvements": null
+                        }
+                    ]
+                },
+                {
+                    "info": null
+                },
+                {
+                    "date": "13/12/2020"
                 }
             ]
         }
