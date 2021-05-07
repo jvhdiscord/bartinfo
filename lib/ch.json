@@ -15,7 +15,7 @@
                         },
                         {
                             "added": [
-                                "- `pick` command: picks a random winner or winners (defaults to 1 winner) of the reaction(s) of a message\\\n -> `b!pick <message id> [number of winners (defaults to 1)] [toggle all emojis (defaults to false)]`",
+                                "- `pick` command: picks a random winner or winners (defaults to 1 winner) of the reaction(s) of a message\n -> `b!pick <message id> [number of winners (defaults to 1)] [toggle all emojis (defaults to false)]`",
                                 "- More advanced giveaway commands"
                             ]
                         },
