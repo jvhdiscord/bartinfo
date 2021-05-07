@@ -29,9 +29,7 @@
                 },
                 {
                     "info": [
-                        {
-                            "giveaway": "- Commands: `giveaway` `quickgiveaway` `endgiveaway` `stopgiveaway` `reroll`\n- For info about the commands you can use `b!help [command]`."
-                        }
+                        "- New giveaway commands: `giveaway` `quickgiveaway` `endgiveaway` `stopgiveaway` `reroll`\n- For info about the commands you can use `b!help [command]`."
                     ]
                 }
             ]
