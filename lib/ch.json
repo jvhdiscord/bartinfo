@@ -1,3 +1,40 @@
 {
-	
+    "name": "Changelog",
+    "updates": [
+        {
+            "update2.0": [
+                {
+                    "Date": null
+                },
+                {
+                    "general": [
+                        {
+                            "removed": [
+                                "imagine trigger"
+                            ]
+                        },
+                        {
+                            "added": [
+                                "`pick` command: picks a random winner or winners (defaults to 1 winner) of the reaction(s) of a message\\\n> -> `b!pick <message id> [number of winners (defaults to 1)] [toggle all emojis (defaults to false)]`",
+                                "More advanced giveaway commands"
+                            ]
+                        },
+                        {
+                            "improvements": [
+                                "Some bug fixes",
+                                "Total rewrite of the bot which should make it faster"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "info": [
+                        {
+                            "giveaway": "- Commands: `giveaway` `quickgiveaway` `endgiveaway` `stopgiveaway` `reroll`\n- For info about the commands you can use `b!help [command]`."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
