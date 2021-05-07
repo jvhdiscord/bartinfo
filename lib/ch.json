@@ -5,7 +5,7 @@
         {
             "update2.0": [
                 {
-                    "version": "2.0"
+                    "version": 2.0
                 },
                 {
                     "general": [
@@ -41,7 +41,7 @@
         {
             "update1.0": [
                 {
-                    "version": "1.0"
+                    "version": 1.0
                 },
                 {
                     "general": [
