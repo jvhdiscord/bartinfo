@@ -2,6 +2,33 @@
     "name": "Changelog / Updates",
     "updates": [
         {
+            "update3.0": [
+                {
+                    "version": "3.0"
+                },
+                {
+                    "general": [
+                        {
+                            "removed": null
+                        },
+                        {
+                            "added": [
+                                "Your momma\nIssa hoe"
+                            ]
+                        },
+                        {
+                            "improvements": [
+                                "- Some bug fixes"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "info": null
+                }
+            ]
+        },
+        {
             "update2.0": [
                 {
                     "version": "2.0"
