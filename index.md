@@ -1,3 +1,9 @@
+---
+title: Bart
+layout: template
+filename: index
+--- 
+
 # BART
 Invite Discord bot Bart to your server using the link below.
 Bart is a Discord bot with moderation settings, many fun commands and supports small but very cool upcoming Twitch Streamers like [Mazlive__](https://twitch.tv/mazlive__) and [MaxIsnT](https://twitch.tv/maxisnt).
